@@ -1,0 +1,8 @@
+1 Edson Arguello Arguello INE 456 Janos Clara Guadalupe NL 02/03/2002 Masculino LMAD Ninguno
+
+2 Isaias Hernandez Hernandez Otro 123 Chile Jardin Guada NL 14/07/2001 Femenino Lic Embarazada
+
+3 Juan Castro Castro ACTA 123 Frank Joya Guada NL 24/04/2002 Masculino Cont PersonaMayor
+
+4 Abril Garcia Garcia INE 123 Arbole Anahuac SanNico NL 13/10/2001 Femenino Abogada Ninguno
+
